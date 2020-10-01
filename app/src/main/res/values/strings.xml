@@ -4,7 +4,12 @@
     <string name="bubble">bubble</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="submit">Submit</string>
     <string name="leaderboard">LEADERBOARD</string>
     <string name="percy_king">Percy King</string>
+    <string name="down">down</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="github_link">github link</string>
+    <string name="submit">Submit</string>
 </resources>

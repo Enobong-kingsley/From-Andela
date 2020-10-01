@@ -6,6 +6,8 @@
     android:layout_height="match_parent"
     tools:context=".LeaderBoard">
 
+
+
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/constraint2"
         android:layout_width="match_parent"
@@ -17,13 +19,15 @@
         android:background="#000">
 
         <Button
+            android:id="@+id/submitBttn"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="30dp"
             android:text="@string/submit"
+            android:textStyle="bold"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            android:background="#FFF"
+            android:background="@drawable/submit_drawable"
             android:layout_marginRight="10dp"
             android:layout_marginEnd="10dp" />
 
